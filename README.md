@@ -4,6 +4,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=johanromeo&label=Profile%20views&color=0e75b6&style=flat" alt="johanromeo" /> </p>
 <br></br>
 
+- 🔭 I’m currently working on [Plan-a-Meal](https://github.com/johanromeo/Plan-a-Meal)
+
 - 🌱 I’m currently learning **Java 17 Masterclass with Tim Buchalka on Udemy**
 
 - 💬 Ask me about **Beethoven or Java**
