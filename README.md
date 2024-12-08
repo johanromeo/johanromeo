@@ -7,10 +7,6 @@
 - 🔭 I’m currently working on [Plan-a-Meal](https://github.com/johanromeo/Plan-a-Meal)
 
 - 🌱 I’m currently learning **Java 17 Masterclass with Tim Buchalka on Udemy**
-
-- 💬 Ask me about **Beethoven or Java**
-
-- 📫 How to reach me **johan_romeo123@live.se**
 <br></br>
 
 <h3 align="left">Languages and Tools:</h3>
