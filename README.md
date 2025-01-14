@@ -4,9 +4,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=johanromeo&label=Profile%20views&color=0e75b6&style=flat" alt="johanromeo" /> </p>
 <br></br>
 
-- 🔭 I’m currently working on [Plan-a-Meal](https://github.com/johanromeo/Plan-a-Meal)
+- 🔭 I’m currently working on my fullstack [Todo Applicationl](https://github.com/johanromeo/Todo-App) using Java and React.
 
-- 🌱 I’m currently learning **Java 17 Masterclass with Tim Buchalka on Udemy**
+- 🌱 I’m currently learning **React.js** through **Folkuniversitetet.**
 <br></br>
 
 <h3 align="left">Languages and Tools:</h3>
