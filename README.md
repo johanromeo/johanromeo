@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=johanromeo&label=Profile%20views&color=0e75b6&style=flat" alt="johanromeo" /> </p>
 <br></br>
 
-- 🔭 I’m currently working on my fullstack [Todo Applicationl](https://github.com/johanromeo/Todo-App) using Java and React.
+- 🔭 I’m currently working on my fullstack [Todo Application](https://github.com/johanromeo/Todo-App) using Java and React.
 
 - 🌱 I’m currently learning **React.js** through **Folkuniversitetet.**
 <br></br>
