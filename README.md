@@ -11,7 +11,6 @@
    <p textalign="left">🌱 I’m currently diving deeper into  <strong>Quality Assurance</strong> through <strong>EC Utbildning</strong>.</p>
 </div>
 <br></br>
-<br></br>
 
 <div align="center">
 <h3 align="center">Languages and Tools:</h3>
